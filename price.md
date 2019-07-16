@@ -2,7 +2,7 @@
 
 {{indexmenu_n>60}}
 
-\#\# 单机版Memcache价格
+## 单机版Memcache价格
 
 （单位：元/GB/月）
 
