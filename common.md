@@ -1,6 +1,6 @@
 # 快速上手
 
-{{indexmenu_n>30}}
+
 
 ## 创建云内存Memcache实例
 

@@ -1,6 +1,6 @@
 # FAQs
 
-{{indexmenu_n>70}}
+
 
 ## 云内存Memcache的安全性如何？
 

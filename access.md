@@ -1,6 +1,6 @@
 # 实例访问
 
-{{indexmenu_n>31}}
+
 
 出于安全性考虑，云内存Memcache实例仅能在内网进行访问，以Memcache协议为例简述如何访问云内存Memcache实例。
 
