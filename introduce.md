@@ -1,8 +1,6 @@
 # 产品简介
 
-
-
-云内存Memcache是UCloud自主研发的极高性能、内存级的Key-Value存储服务。云内存Memcache可以极大缓解后端存储的压力，提高网站或应用的响应速度。云内存Memcache支持Key-Value的数据结构，兼容Memcached协议的客户端都可与云内存Memcache进行通信。
+云内存Memcache是基于内存的缓存服务，支持海量小数据的高速访问。云内存Memcache可以极大缓解后端存储的压力，提高网站或应用的响应速度。云内存Memcache支持Key-Value的数据结构，兼容Memcached协议的客户端都可与云内存Memcache进行通信。
 
 与本地自建MemCached相同之处在于云内存Memcache同样兼容Memcached协议，与用户环境兼容，可直接使用。
 不同之处在于硬件和数据部署在云端，有完善的基础设施、网络安全保障、系统维护服务。所有的这些服务，都不需要投资，只需根据使用量进行付费即可。
