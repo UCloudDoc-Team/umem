@@ -1,4 +1,3 @@
-<div class="sidebar_title icon__umem"> 云内存 Memcache</div>
 
 * [概览](/umem/README) 
 * [产品简介](/umem/introduce)
